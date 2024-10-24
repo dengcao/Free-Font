@@ -6,7 +6,13 @@
 
 > 这里收录的可以免费商用的字体，目前中文字体348款，英文字体980款，共约1300多款字体。
 
+如帮助了您，记得Star一下，收藏不迷路。
 
+# English
+
+Free fonts that can be used commercially.There are currently 348 Chinese fonts and 980 English fonts, totaling more than 1,300 fonts.
+
+If it helped you, please Star, collect and don't get lost.
 
 # 关于授权
 

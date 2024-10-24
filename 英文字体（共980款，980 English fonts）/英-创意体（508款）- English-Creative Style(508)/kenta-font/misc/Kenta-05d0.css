@@ -1,0 +1,12 @@
+/* Webfont: KentaRegular */@font-face {
+    font-family: 'Kenta';
+    src: url('Kenta.eot'); /* IE9 Compat Modes */
+    src: url('Kenta.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Kenta.woff') format('woff'), /* Modern Browsers */
+         url('Kenta.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Kenta.svg#KentaRegular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

@@ -1,3 +1,9 @@
+# Description
+
+Free fonts that can be used commercially.There are currently 348 Chinese fonts and 980 English fonts, totaling more than 1,300 fonts.
+
+If it helped you, please Star, collect and don't get lost.
+
 # 前言
 
 汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
@@ -7,12 +13,6 @@
 > 这里收录的可以免费商用的字体，目前中文字体348款，英文字体980款，共约1300多款字体。
 
 如帮助了您，记得Star一下，收藏不迷路。
-
-# English
-
-Free fonts that can be used commercially.There are currently 348 Chinese fonts and 980 English fonts, totaling more than 1,300 fonts.
-
-If it helped you, please Star, collect and don't get lost.
 
 # 关于授权
 

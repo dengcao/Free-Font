@@ -1,6 +1,6 @@
 # Description
 
-Free fonts that can be used commercially.There are currently 348 Chinese fonts and 980 English fonts, totaling more than 1,300 fonts.
+Free fonts that can be used commercially.There are currently 1308 Chinese fonts and 980 English fonts, totaling more than 2,288 fonts.
 
 If it helped you, please Star, collect and don't get lost.
 
@@ -10,9 +10,15 @@ If it helped you, please Star, collect and don't get lost.
 
 然而目前国内字体的授权体系还不是那么完善，不同的厂商对不同的使用场景都不同的授权，而授权协议里不那么好理解的专业术语往往也使用户望而却步。对于哪些刚起步的创业公司或者个人来讲动辄几千的授权费用也是一笔不小的开支，这里收录了一些在网上收集整理的可以免费商用的中英文字体供大家使用。
 
-> 这里收录的可以免费商用的字体，目前中文字体348款，英文字体980款，共约1300多款字体。
+> 这里收录的可以免费商用的字体，目前中文字体1308款，英文字体980款，共约2288多款字体。
 
 如帮助了您，记得Star一下，收藏不迷路。
+
+
+# 更新日志
+
+2024.10.31 新增：汉仪字体960个，中文字体共1308个。
+
 
 # 关于授权
 
@@ -59,21 +65,17 @@ IPA开放字型授权条款是日本「IPA」以符合「开放原始码促进�
 **免责声明：本文涉及对字体/字库/字库软件等的分发、使用等著作权相关法律问题的讨论。其中很多目前在法律上并无明确规定，学理上存在争议，不同国家、甚至相同法域内也存在相互冲突的判例。因此，文章内容仅代表个人观点，仅供参考，不应被作为正式的法律意见。本人不对采纳文中建议或观点以及使用这些字体所可能产生的任何责任或后果承担责任。**
 
 
+### 关于
+
+开发：[邓草博客 blog.5300.cn](http://blog.5300.cn)
+
+赞助：[品络互联 www.pinluo.com](http://www.pinluo.com)  &ensp;  [AI工具箱 5300.cn](http://5300.cn)  &ensp;  [汉语言文学网 hyywx.com](http://hyywx.com)  &ensp;  [雄马 xiongma.cn](http://xiongma.cn) &ensp;  [优惠券 tm.gs](http://tm.gs)
+
 
 # 参考链接
-
-[邓草博客](http://blog.5300.cn)
 
 [设计师福利，这是一份最最全面的免费可商用字体清单 - 葱花姐](https://5300.cn/blog/12)
 
 [免费商用中文字体分享 - 站酷 ](https://5300.cn/blog/13)
 
 [免费字体获取和使用指南 - 少数派](https://sspai.com/post/42889)
-
-[AI工具箱](https://5300.cn)
-
-[汉语言文学网](https://hyywx.com)
-
-[雄马网](https://xiongma.cn)
-
-[获取某猫某东的商品特卖、免费优惠券](http://tm.gs)

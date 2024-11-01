@@ -1,15 +1,19 @@
 # Description
 
-Free fonts that can be used commercially.There are currently 1308 Chinese fonts and 980 English fonts, totaling more than 2,288 fonts.
+Free fonts that can be used commercially.There are currently 348 Chinese fonts and 980 English fonts, totaling more than 1,328 fonts.
+In addition, it also includes some commercially charged fonts, such as 960 Chinese Hanyi fonts.
 
 If it helped you, please Star, collect and don't get lost.
 
 # 前言
 
-这里收录的可以免费商用的字体，目前中文字体1308款，英文字体980款，共约2288多款字体。
+这里收录的可以免费商用的字体，目前中文字体348款，英文字体980款，共约1328多款字体。 
+
+另外，还收录了部分收费的字体，如汉仪字体960款【其中18款汉仪字体可以免费商用：汉仪中黑(简/繁)、汉仪细简黑(简)、汉仪中简黑(简)、汉仪楷体(简/繁)、汉仪书宋一(简)、汉仪书宋二(繁)、汉仪粗仿宋(简)、汉仪水滴体(简/繁)、汉仪珍珠隶(简/繁) 、Mildy、Ink Chancery、Blackie、Clgtina。授权方式： 仅可以在京东平台上免费使用。】 如实在需要使用其他汉仪字体，可以去其官网申请授权。
+
+除了“汉仪字体”目录中的汉仪字体外，其他均为免费可商用的字体。
 
 如帮助了您，记得Star一下，收藏不迷路。
-
 
 汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
 
@@ -89,3 +93,5 @@ GitHub：https://github.com/dengcao/free-fonts
 [免费商用中文字体分享 - 站酷 ](https://5300.cn/blog/13)
 
 [免费字体获取和使用指南 - 少数派](https://sspai.com/post/42889)
+
+[永久免费商用正版字体列表大全：除了思源字体、阿里巴巴普惠体，还有哪些免费商用字体？](https://5300.cn/blog/97)
